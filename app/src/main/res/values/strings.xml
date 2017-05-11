@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Beer</string>
+    <string name="find">Find Beer</string>
+    <string name="TextView"></string>
+    <string-array name="types">
+        <item>Yellow</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+</resources>
